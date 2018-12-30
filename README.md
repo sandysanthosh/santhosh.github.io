@@ -1,9 +1,8 @@
-front-end
-personal web page
+
                         
 # CERTIFICATIONS                        
                         
- ertified in IBM Mainframe (worked with DB2)            
+ certified in IBM Mainframe (worked with DB2)            
  certified in UDEMY JSP, Servlets, JDBC (2018)          
  certificated in National Cadet Crops both B and C grade.               
  certified in NIIT for programming in C in the year 2013                        
